@@ -67,7 +67,7 @@ const Preferences = () => {
             colors={colors.gradients.success}
             style={settingStyles.settingIcon}
           >
-            <Ionicons name="notifications" size={18} color="#fff" />
+            <Ionicons name="sync" size={18} color="#fff" />
           </LinearGradient>
           <Text style={settingStyles.settingText}>Auto Async</Text>
         </View>
